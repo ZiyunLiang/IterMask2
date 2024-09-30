@@ -12,7 +12,7 @@ We also use high-frequency image content as an auxiliary input to provide additi
 
 
 [//]: # 
-![Image text](https://github.com/ZiyunLiang/Itermask2/img/img1.pdf)
+![Image text](https://github.com/ZiyunLiang/IterMask2/blob/main/img/img1.pdf)
 
 [//]: # (![Image text]&#40;https://github.com/ZiyunLiang/Itermask2/img/img2.png&#41;)
 
@@ -41,7 +41,7 @@ For manualy installing packages:
 
 The project can be cloned using:
 ```
-https://github.com/ZiyunLiang/IterMask2/tree/main/img
+https://github.com/ZiyunLiang/IterMask2.git
 ```
 **1.2 Dataset Download**\
 Download the BraTS2021 training data from <a href="http://www.braintumorsegmentation.org/">BraTS2021 official website</a> and unzip it to the folder `./datasets/RSNA_ASNR_MICCAI_BraTS2021_TrainingData_16July2021`.
