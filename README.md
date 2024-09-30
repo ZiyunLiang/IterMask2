@@ -12,7 +12,7 @@ We also use high-frequency image content as an auxiliary input to provide additi
 
 
 [//]: # 
-![Image text](https://github.com/ZiyunLiang/IterMask2/blob/main/img/img1.pdf)
+![Image text](https://github.com/ZiyunLiang/IterMask2/blob/main/img/img1.png)
 
 [//]: # (![Image text]&#40;https://github.com/ZiyunLiang/Itermask2/img/img2.png&#41;)
 
