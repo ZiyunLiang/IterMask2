@@ -1,11 +1,8 @@
 import os
 import sys
-import shutil
 import os.path as osp
 import json
 import time
-import datetime
-import tempfile
 import warnings
 from collections import defaultdict
 from contextlib import contextmanager

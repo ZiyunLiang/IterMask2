@@ -3,7 +3,6 @@ import os
 import numpy as np
 import torch as th
 import torch.fft as fft
-import blobfile as bf
 from utils import logger
 from utils.metrics import dice_score
 

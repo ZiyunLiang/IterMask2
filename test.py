@@ -7,7 +7,6 @@ import numpy as np
 import torch as th
 import blobfile as bf
 from pathlib import Path
-from skimage import morphology
 
 from datasets import loader
 from configs import get_config
