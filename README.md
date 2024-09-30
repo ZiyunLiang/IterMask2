@@ -33,7 +33,6 @@ For manualy installing packages:
 - `numpy`                   1.26.3
 - `scikit-image`            0.24.0
 - `scipy`                   1.13.1
-- `tqdm`                    4.66.1
 - `monai`                   1.3.1
 - `tensorboard`            2.17.0
 - `ml_collections`         0.1.1
