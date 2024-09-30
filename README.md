@@ -1,6 +1,6 @@
 # $IterMask^2$: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI"</a>, Multiscale Multimodal Medical Imaging - MICCAI, 2024
 
-This repository is the official pytorch implementation for paper: Liang et al., <a href="https://arxiv.org/abs/2308.16150">$IterMask^2$: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI"</a>, - MICCAI, 2024 (Oral).
+This repository is the official pytorch implementation for paper: Liang et al., <a href="https://arxiv.org/abs/2308.16150"> IterMask2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI"</a>, - MICCAI, 2024 (Oral).
 
 
 ## Introduction:
